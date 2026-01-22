@@ -1,4 +1,5 @@
 three
 3
 3333333
-hello three
+revert "hello three" again
+and try --amend
